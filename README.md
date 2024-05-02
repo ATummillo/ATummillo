@@ -6,9 +6,9 @@
 - 💬 Ask me about anything you'd like!
 - How to reach me:
   - 📩 atummillo.dev@gmail.com
-  - 📲 (650) 241-0783
+  - 📲 (610) 883-3803
   - 👨‍💼️ <a href="https://linkedin.com/in/anthonytummillo">LinkedIn</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When not at my computer, you can find me exploring the Tahoe Basin with my pooch/bestfriend/son <a href="https://photos.app.goo.gl/dv97zpUxEcMMHaZWA">Nathan</a>!
+- ⚡ Fun fact: When not at my computer, you can find me exploring with my pooch/bestfriend/son <a href="https://photos.app.goo.gl/dv97zpUxEcMMHaZWA">Nathan</a>!
 
 ![bottom banner](./img/github-bottom-banner.png)
